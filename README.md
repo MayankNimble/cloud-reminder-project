@@ -18,9 +18,7 @@ This project simulates a simple reminder system where:
 - The request is sent via API Gateway
 - AWS Lambda processes the request
 - Amazon SES delivers the email
-
----
-
+  
 ---
 
 ## AWS Services Used
@@ -57,6 +55,7 @@ https://d2y2l7cgdrvf5n.cloudfront.net
 - Move SES out of sandbox to allow public email sending
 - Add DynamoDB logging for reminders
 - Implement Infrastructure as Code using Terraform or CloudFormation
+
 ---
 
 ## Screenshots
@@ -64,6 +63,8 @@ https://d2y2l7cgdrvf5n.cloudfront.net
 ![Application UI](assets/UI.jpeg)
 
 ![Email Received](assets/email.jpeg)
+
+---
 
 ## Architecture Overview
 
@@ -75,6 +76,8 @@ This project follows a fully serverless architecture:
 - Backend logic executed via AWS Lambda
 - Emails sent using Amazon SES (Sandbox mode)
 
+---
+
 ### Why Serverless?
 
 This project was designed using a serverless approach to:
@@ -83,6 +86,8 @@ This project was designed using a serverless approach to:
 - Reduce infrastructure costs
 - Improve availability and fault tolerance
 - Follow modern cloud-native best practices
+
+---
   
 ## Tech Stack
 
@@ -93,11 +98,15 @@ This project was designed using a serverless approach to:
 - Amazon SES
 - HTML / CSS / JavaScript
 
+---
+
 ## Security Considerations
 
 - IAM role-based permissions for Lambda execution
 - SES configured in sandbox mode with verified identities
 - CORS enabled for secure frontend-to-API communication
+
+---
 
 ## Architecture Diagram
 
