@@ -77,8 +77,6 @@ https://d2y2l7cgdrvf5n.cloudfront.net
 
 ![Email Received](assets/email.jpeg)
 
-## Architecture Diagram
-
 ## Architecture Overview
 
 This project follows a fully serverless architecture:
@@ -88,6 +86,8 @@ This project follows a fully serverless architecture:
 - API handled by API Gateway
 - Backend logic executed via AWS Lambda
 - Emails sent using Amazon SES (Sandbox mode)
+
+## Architecture Diagram
 
 <p align="center">
   <img src="assets/architecture.png" width="600"/>
