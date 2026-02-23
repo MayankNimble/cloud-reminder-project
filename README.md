@@ -105,6 +105,12 @@ This project was designed using a serverless approach to:
 - Amazon SES
 - HTML / CSS / JavaScript
 
+## Security Considerations
+
+- IAM role-based permissions for Lambda execution
+- SES configured in sandbox mode with verified identities
+- CORS enabled for secure frontend-to-API communication
+
 ## Architecture Diagram
 
 <p align="center">
