@@ -90,5 +90,5 @@ This project follows a fully serverless architecture:
 ## Architecture Diagram
 
 <p align="center">
-  <img src="assets/architecture.png" width="600"/>
+  <img src="assets/architecture.png" width="650"/>
 </p>
