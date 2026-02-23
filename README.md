@@ -76,3 +76,7 @@ https://d2y2l7cgdrvf5n.cloudfront.net
 ![Application UI](assets/UI.jpeg)
 
 ![Email Received](assets/email.jpeg)
+
+## Architecture Diagram
+
+![Architecture](assets/architecture.png)
