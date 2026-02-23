@@ -82,5 +82,3 @@ https://d2y2l7cgdrvf5n.cloudfront.net
 <p align="center">
   <img src="assets/architecture.png" width="600"/>
 </p>
-
-![Architecture](assets/architecture.png)
