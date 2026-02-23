@@ -1,3 +1,4 @@
+Fully serverless email reminder system built and deployed on AWS cloud.
 # Serverless Cloud Reminder System
 
 This project is a fully serverless reminder application built using AWS cloud services.  
