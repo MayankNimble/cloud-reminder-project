@@ -68,7 +68,7 @@ https://d2y2l7cgdrvf5n.cloudfront.net
 - Move SES out of sandbox to allow public email sending
 - Add DynamoDB logging for reminders
 - Implement Infrastructure as Code using Terraform or CloudFormation
-- ---
+---
 
 ## Screenshots
 
@@ -76,4 +76,4 @@ https://d2y2l7cgdrvf5n.cloudfront.net
 ![Application UI](UI.png)
 
 ### Email Received
-![Email Output](email.png)
+![Email Received](email.png)
