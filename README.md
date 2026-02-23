@@ -43,13 +43,6 @@ This project simulates a simple reminder system where:
 
 ---
 
-## Live Demo
-
-Frontend (CloudFront):
-https://d2y2l7cgdrvf5n.cloudfront.net
-
----
-
 ## Future Improvements
 
 - Move SES out of sandbox to allow public email sending
