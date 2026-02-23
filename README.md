@@ -87,6 +87,15 @@ This project follows a fully serverless architecture:
 - Backend logic executed via AWS Lambda
 - Emails sent using Amazon SES (Sandbox mode)
 
+### Why Serverless?
+
+This project was designed using a serverless approach to:
+- Eliminate server management
+- Achieve automatic scaling
+- Reduce infrastructure costs
+- Improve availability and fault tolerance
+- Follow modern cloud-native best practices
+  
 ## Tech Stack
 
 - Amazon S3
