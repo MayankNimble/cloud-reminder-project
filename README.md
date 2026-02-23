@@ -79,6 +79,16 @@ https://d2y2l7cgdrvf5n.cloudfront.net
 
 ## Architecture Diagram
 
+## Architecture Overview
+
+This project follows a fully serverless architecture:
+
+- Frontend hosted on Amazon S3
+- Distributed globally using CloudFront
+- API handled by API Gateway
+- Backend logic executed via AWS Lambda
+- Emails sent using Amazon SES (Sandbox mode)
+
 <p align="center">
   <img src="assets/architecture.png" width="600"/>
 </p>
