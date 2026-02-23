@@ -87,6 +87,15 @@ This project follows a fully serverless architecture:
 - Backend logic executed via AWS Lambda
 - Emails sent using Amazon SES (Sandbox mode)
 
+## Tech Stack
+
+- Amazon S3
+- Amazon CloudFront
+- Amazon API Gateway
+- AWS Lambda (Python)
+- Amazon SES
+- HTML / CSS / JavaScript
+
 ## Architecture Diagram
 
 <p align="center">
