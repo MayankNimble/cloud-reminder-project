@@ -73,7 +73,7 @@ https://d2y2l7cgdrvf5n.cloudfront.net
 ## Screenshots
 
 ### Application UI
-![Application UI](UI.png)
+![Application UI](UI.jpeg)
 
 ### Email Received
-![Email Received](email.png)
+![Email Received](email.jpeg)
