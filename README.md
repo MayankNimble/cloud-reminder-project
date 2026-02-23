@@ -4,7 +4,7 @@ Fully serverless email reminder system built and deployed on AWS cloud.
 This project is a fully serverless reminder application built using AWS cloud services.  
 It allows users to send reminder emails through a secure backend powered by AWS Lambda and Amazon SES.
 
-🚀 Live Demo: https://your-cloudfront-link
+🚀 Live Demo: https://d2y2l7cgdrvf5n.cloudfront.net
 
 ---
 
