@@ -21,20 +21,6 @@ This project simulates a simple reminder system where:
 
 ---
 
-## Architecture
-
-User  
-↓  
-CloudFront (CDN)  
-↓  
-Amazon S3 (Static Frontend Hosting)  
-↓  
-API Gateway  
-↓  
-AWS Lambda  
-↓  
-Amazon SES  
-
 ---
 
 ## AWS Services Used
